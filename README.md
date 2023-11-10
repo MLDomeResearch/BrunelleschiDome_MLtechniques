@@ -18,3 +18,6 @@ USAGE:
 - $ python main.py --forecast 1 -> forecasting task on the web number 1 - the models are trained on the whole dataset but the inference is on the compact dataset attached
 - $ python main.py --forecast 2 -> forecasting task on the web number 2 - the models are trained on the whole dataset but the inference is on the compact dataset attached
 ...
+
+
+The animation_kpca_isomap.zip file contains the animated graph videos related to the dimensionality reduction task
